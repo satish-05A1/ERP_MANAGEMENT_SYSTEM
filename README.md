@@ -1,1 +1,1 @@
-# ERP Management System
+# Enterprise Resource Planning
